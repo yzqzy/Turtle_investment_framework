@@ -43,6 +43,9 @@ scripts/output/
 # Tushare cache
 tushare_data/
 
+# Video assets
+video/
+
 # Project
 claude-progress.txt
 CLAUDE.md
